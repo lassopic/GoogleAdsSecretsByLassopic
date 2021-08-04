@@ -7,4 +7,6 @@ Here Is Linkedin Profile Contact me If Anything Needed
 
 https://www.linkedin.com/in/lassopic
 
-<b> GO TO THE PROJECTS TO VIEW ALL STEPS </b>
+<h2> <b> GO TO THE PROJECTS TO VIEW ALL STEPS </b> </h2>
+
+<h3> Complete Project is Protected With GPL LICENSE V3.0 </h3>
