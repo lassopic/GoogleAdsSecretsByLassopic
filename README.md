@@ -7,7 +7,7 @@ Here Is Linkedin Profile Contact me If Anything Needed
 
 https://www.linkedin.com/in/lassopic
 
-<h2> <b> GO TO THE PROJECTS TO VIEW ALL STEPS </b> </h2> or <a hred="https://github.com/lassopic/GoogleAdsSecretsByLassopic/projects">Click Here  </a>
+<h2> <b> GO TO THE PROJECTS TO VIEW ALL STEPS  or <a href="https://github.com/lassopic/GoogleAdsSecretsByLassopic/projects">Click Here </a> </b> </h2>
 
 
 
