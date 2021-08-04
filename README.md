@@ -6,3 +6,5 @@ All Information Shared Here Are Professional Experience I Had Using Google Ads F
 Here Is Linkedin Profile Contact me If Anything Needed 
 
 https://www.linkedin.com/in/lassopic
+
+<b> GO TO THE PROJECTS TO VIEW ALL STEPS </b>
